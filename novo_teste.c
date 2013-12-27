@@ -1,2 +1,2 @@
-its ok
-bug #1
+fixes bug #1
+okok
