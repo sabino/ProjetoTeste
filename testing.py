@@ -9,3 +9,6 @@ print(0666)
 
 
 print(0777)
+
+
+print(9999)
